@@ -31,9 +31,9 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ```
 
-NAME: NITHISH KUMAR P
+NAME:POORNA PAVAN
 
-REG NO: 212221040115
+REG NO: 19000404
 
 ```
 
